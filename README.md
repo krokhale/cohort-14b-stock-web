@@ -1,3 +1,16 @@
+# Tasks
+
+---
+
+> Add tailwind to the app.
+
+> Create a mock for the project based on the UI described on the dashboard.
+
+> Your app should be able to use the search api route we created and show the user the stock price.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
