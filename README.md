@@ -2,11 +2,18 @@
 
 ---
 
-> Add tailwind to the app.
+> ~~Add tailwind to the app.~~
 
-> Create a mock for the project based on the UI described on the dashboard.
+> ~~Create a mock for the project based on the UI described on the dashboard.~~
+
+> Create a mock for the portfolio table (The right side box) 
 
 > Your app should be able to use the search api route we created and show the user the stock price.
+
+> Create a state variable and set it to the data we received from the backend server and show it in the UI
+
+> Create functionality to Buy and Sell the stock
+ 
 
 
 
